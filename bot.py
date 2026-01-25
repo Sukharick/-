@@ -2,7 +2,7 @@ import telebot
 import random
 import os
 
-token = "7572133367:AAGq2I-fUQIlP1GcujqgoxICc17DXCm_Mlo"
+token = ""
 bot = telebot.TeleBot(token)
 
 facts = [
@@ -75,3 +75,4 @@ def send_img(message):
             pass
 
 bot.polling()
+
