@@ -4,6 +4,7 @@
 ![Telegram](https://img.shields.io/badge/telegram-bot-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Примеры работы бота] (https://kartinki.pibig.info/uploads/posts/2023-04/thumbs/1680906427_kartinki-pibig-info-p-klimat-kartinki-dlya-prezentatsii-arti-1.jpg)
 
 **Climate Awareness Bot** — информационный Telegram-бот, созданный для повышения осведомлённости о проблеме *глобального потепления* и изменениях климата.
 
